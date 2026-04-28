@@ -1,0 +1,3 @@
+DataBase:
+  Sqlite:
+    Ks: "file_db/KS.db"
